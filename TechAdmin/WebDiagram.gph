@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:DiagramModel="http://www.ibm.com/etools/7.0/DiagramModel" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation">
+  <notation:Diagram xmi:id="_VkK38KFDEeKr7t-vUmuktw" type="wde.element" element="_VkK386FDEeKr7t-vUmuktw" name="WebDiagram.gph" measurementUnit="Himetric">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_VkK38aFDEeKr7t-vUmuktw"/>
+  </notation:Diagram>
+  <DiagramModel:Model xmi:id="_VkK38qFDEeKr7t-vUmuktw" id="com.ibm.etools.model2.diagram.web.WebDiagram">
+    <diagram xmi:id="_VkK386FDEeKr7t-vUmuktw" titleProperty="_VmPUgKFDEeKr7t-vUmuktw" type="com.ibm.etools.model2.diagram.web.WebDiagram" version="7.0">
+      <persistedProperties xmi:id="_VmPUgKFDEeKr7t-vUmuktw" name="Name" value="Web Diagram"/>
+      <nodes xmi:id="_VkK39KFDEeKr7t-vUmuktw" titleProperty="_VkK39aFDEeKr7t-vUmuktw" type="com.ibm.etools.model2.diagram.web.WelcomeNode"/>
+    </diagram>
+  </DiagramModel:Model>
+</xmi:XMI>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created using an evaluation version of JasperAssistant (http://www.jasperassistant.com) -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Unnamed" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="30" bottomMargin="30">
+	<property name="com.jasperassistant.designer.DataSource" value="LAW"/>
+	<property name="com.jasperassistant.designer.Grid" value="false"/>
+	<property name="com.jasperassistant.designer.SnapToGrid" value="false"/>
+	<property name="com.jasperassistant.designer.GridWidth" value="12"/>
+	<property name="com.jasperassistant.designer.GridHeight" value="12"/>
+	<queryString>
+		<![CDATA[select * from sakansha.fir_details]]>
+	</queryString>
+	<field name="BY" class="java.math.BigDecimal"/>
+	<field name="COMPLAINT" class="java.lang.String"/>
+	<field name="COMPLAINT_ID" class="java.math.BigDecimal"/>
+	<field name="FIR" class="java.lang.String"/>
+	<field name="ID" class="java.math.BigDecimal"/>
+	<field name="ON" class="java.sql.Timestamp"/>
+	<field name="POLICESTATION" class="java.math.BigDecimal"/>
+	<detail>
+		<band height="100"/>
+	</detail>
+</jasperReport>
